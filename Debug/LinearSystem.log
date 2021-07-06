@@ -1,0 +1,3 @@
+﻿  LinearSystem.cpp
+C:\Users\Admin\Desktop\2 семестр\основы программирования\Лабораторные\LinearSystem\LinearSystem.cpp(204,31): warning C4101: 'choose': unreferenced local variable
+  LinearSystem.vcxproj -> C:\Users\Admin\Desktop\2 семестр\основы программирования\Лабораторные\LinearSystem\Debug\LinearSystem.exe

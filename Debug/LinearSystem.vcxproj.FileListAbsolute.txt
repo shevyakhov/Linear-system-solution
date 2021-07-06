@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\2 семестр\основы программирования\Лабораторные\LinearSystem\Debug\LinearSystem.exe
+C:\Users\Admin\Desktop\2 семестр\основы программирования\Лабораторные\LinearSystem\Debug\LinearSystem.pdb
